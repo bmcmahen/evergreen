@@ -150,7 +150,7 @@ We will add you to the list if you make any meaningful contribution!
 
 - Jeroen Ransijn
 - Roland Warmerdam
-- Ben McMahon
+- Ben McMahen
 - Matt Shwery
 - ... many other on the Segment team and open-source contributors
 
